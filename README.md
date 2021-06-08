@@ -1,0 +1,2 @@
+# lottery-sim
+A program that allows the user to ‘play’ a lottery game using the Set interface from the Java collection classes (java.util.Set). Each player chooses 6 unique numbers (between 1 &amp;  max) for £2.00 and the draw is held the computer randomly selects 6 unique numbers (between 1 &amp; max). A prize of £25 is won if 3 numbers are matched, £100 4 numbers , £1,000 for 5 numbers and £1,000,000  for 6 numbers.
