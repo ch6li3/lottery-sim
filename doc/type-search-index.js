@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"DataStructureException"},{"p":"<Unnamed>","l":"Lottery"},{"p":"<Unnamed>","l":"LotterySet"},{"p":"<Unnamed>","l":"Menu"},{"p":"<Unnamed>","l":"Tester"}]
